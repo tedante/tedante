@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Teddy Koerniadi 👋
+
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://teddykoerniadi.github.io/plain-html/index.html)
+
+## I'm a Developer, and Teacher
+
+- 🔭 I’m currently working on a agency!
+- 🌱 I’m currently learning docker and go 
 
 <!--
 **teddyKoerniadi/teddyKoerniadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
