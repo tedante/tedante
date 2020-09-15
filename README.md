@@ -1,6 +1,6 @@
 ### Hi there, I'm Teddy Koerniadi 👋
 
-[![Website]](https://teddykoerniadi.github.io/plain-html/index.html)
+[![Website](https://image.flaticon.com/icons/png/512/117/117965.png)](https://teddykoerniadi.github.io/plain-html/index.html)
 
 ## I'm a Developer, and Teacher
 
