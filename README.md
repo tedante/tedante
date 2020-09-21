@@ -6,7 +6,6 @@
 ## I'm a Developer, and Teacher
 
 - 🔭 I’m currently working on a agency!
-- 🌱 I’m currently learning docker and go 
 
 <!--
 **teddyKoerniadi/teddyKoerniadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
